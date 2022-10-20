@@ -1,0 +1,5 @@
+---
+collections:
+  - name: ansible.automation_platform_installer
+    source: ansible-automation_platform_installer-2.2.1-1.tar.xz
+    type: file
